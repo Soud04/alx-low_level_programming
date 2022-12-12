@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * Prints exactly with proper grammar, but the outcome is a piece of art
+ * Prints with proper grammar, but the outcome is a piece of art
  *
  * Return: Always zero
  */
